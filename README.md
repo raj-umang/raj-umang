@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif)
+
 <h1 align="center">Hi 👋, I'm Umang Raj</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
