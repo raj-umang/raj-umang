@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA , java , React Native**
 
-- 💬 Ask me about **Android , Frontend**
+- 💬 Ask me about **Android , Frontend, Backend**
 
 - 📫 How to reach me **raj.umang.1503@gmail.com**
 
